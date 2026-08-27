@@ -1,0 +1,63 @@
+{
+  "section": {
+    "eyebrow": "Academic service",
+    "title": "Editorial leadership, academic service, and community engagement",
+    "intro": "Service activities include editorial responsibilities, conference support, student-facing events, academic outreach, and community participation."
+  },
+  "summary": [
+    {
+      "value": "JEI",
+      "label": "Associate Editor"
+    },
+    {
+      "value": "STEM",
+      "label": "Student & research engagement"
+    },
+    {
+      "value": "Outreach",
+      "label": "Academic & community service"
+    }
+  ],
+  "editorial": [
+    {
+      "role": "Associate Editor",
+      "venue": "Journal of Electronic Imaging (SPIE)",
+      "period": "2025 - Present",
+      "url": "https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/editorial-board"
+    }
+  ],
+  "activities": [
+    {
+      "year": "2026",
+      "title": "Texas State University STEM Conference",
+      "role": "Poster Judge"
+    },
+    {
+      "year": "2025",
+      "title": "ICPC TXST Texas-Mexico Invitational Programming Contest",
+      "role": "Advertising and Operations Assistant"
+    },
+    {
+      "year": "2022",
+      "title": "3rd Women in Machine Learning Workshop (ICML)",
+      "role": "Virtual breakout session facilitator"
+    },
+    {
+      "year": "2022",
+      "title": "Image Quality and System Performance (IQSP)",
+      "role": "Technical Monitor"
+    }
+  ],
+  "talks": [
+    {
+      "year": "2025",
+      "title": "Fall Detection Systems using Wearable Devices",
+      "venue": "Delaware State University, USA"
+    },
+    {
+      "year": "2021",
+      "title": "Visual Quality Assessment of Multimedia based on Machine Learning: How Mathematics has helped to Design Accurate Algorithms!",
+      "venue": "7° Foro Internacional de Investigación ‘Ecos de Ciencia y Tecnología’, México"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "section": {
+    "eyebrow": "Publications",
+    "title": "Research outputs",
+    "intro": "Publications spanning multimodal healthcare AI, generative time-series modeling, computer vision, and perceptual quality assessment."
+  },
+  "items": [
+    {
+      "year": 2026,
+      "title": "SmartFallMM: A multimodal dataset for fall detection using commodity devices",
+      "authors": "Syed Tousiful Haque, Awatif Yasmin, Minakshi Debnath, Jianyuan Ni, Sana Alamgeer, Joshua T. Chang, and Anne Hee Hiong Ngu",
+      "venue": "IEEE Sensors Journal",
+      "type": "journal",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/11651591"
+        },
+        {
+          "label": "Dataset",
+          "url": "https://github.com/txst-cs-smartfall/SmartFallMM-Dataset"
+        }
+      ],
+      "selected": true
+    },
+    {
+      "year": 2026,
+      "title": "RegionGate-CT: A Region-Gated Framework for Anatomy-Grounded CT Report Generation",
+      "authors": "Md Mustafizur Rahman, Sana Alamgeer, and Mylene C. Q. Farias",
+      "venue": "24th International Conference on Artificial Intelligence in Medicine (AIME)",
+      "type": "conference",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-032-30710-1_51"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/MustafizTXST23/RegionGate-CT"
+        }
+      ],
+      "selected": true
+    },
+    {
+      "year": 2026,
+      "title": "You Don't Need Attention: Gated Convolutional Modeling for Watch-Based Fall Detection",
+      "authors": "Sana Alamgeer, Ronish Kumar, Awatif Yasmin, Muhammad Irshad, and Anne H. H. Ngu",
+      "venue": "Preprint",
+      "type": "preprint",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://arxiv.org/abs/2605.20275"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/txst-cs-smartfall/Gated-CNN-for-Watch-based-Fall-Detection"
+        }
+      ],
+      "selected": true
+    },
+    {
+      "year": 2026,
+      "title": "MA-RAG: Multi-Agent Retrieval-Augmented Generation for Query-Driven Summarization of Longitudinal Parkinson's Disease Assessments",
+      "authors": "Sana Alamgeer, Denise Gobert, Muhammad Irshad, and Anne H. H. Ngu",
+      "venue": "Preprint",
+      "type": "preprint",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/txst-cs-smartfall/clinical-LLM-MA-RAG"
+        }
+      ],
+      "selected": true
+    },
+    {
+      "year": 2025,
+      "title": "No-Reference Underwater Image Quality Assessment based on Convolutional Neural Network",
+      "authors": "Muhammad Irshad, Camilo Sanchez-Ferreira, Sana Alamgeer, Carlos H. Llanos, and Mylène C. Q. Farias",
+      "venue": "Journal of Electronic Imaging (SPIE)",
+      "type": "journal",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-34/issue-5/053041/No-reference-underwater-image-quality-assessment-based-on-a-convolutional/10.1117/1.JEI.34.5.053041.short"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2025,
+      "title": "AI-Generated Fall Data: Assessing LLMs and A Diffusion Model for Wearable Fall Detection",
+      "authors": "Sana Alamgeer and Anne H. H. Ngu",
+      "venue": "Wearable Sensors and Artificial Intelligence for Measuring Human Vital Signs: 2nd Edition",
+      "type": "book",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://www.mdpi.com/1424-8220/25/16/5144"
+        },
+        {
+          "label": "Synthetic data",
+          "url": "https://github.com/txst-cs-smartfall/LLM-based-synthetic-fall-data-generation"
+        }
+      ],
+      "selected": true
+    },
+    {
+      "year": 2025,
+      "title": "Improving Time Series Forecasting with Statistical and AI-Driven Feature Optimization",
+      "authors": "Minakshi Debnath, Sana Alamgeer, and Anne H. H. Ngu",
+      "venue": "IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)",
+      "type": "conference",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/abstract/document/11126614"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2025,
+      "title": "TransConv-DDPM: Enhanced Diffusion Model for Generating Time-Series Data in Healthcare",
+      "authors": "Shahriar Tashik, Minakshi Debnath, Sana Alamgeer, and Anne H. H. Ngu",
+      "venue": "IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)",
+      "type": "conference",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/abstract/document/11126605"
+        }
+      ],
+      "selected": true
+    },
+    {
+      "year": 2025,
+      "title": "Enhancing Fall Detection: The Role of Synthetic Data",
+      "authors": "Minakshi Debnath, Shahriar Tashik, Sana Alamgeer, and Anne H. H. Ngu",
+      "venue": "Sensors — Network and Wearables for People Activities and Wellbeing Monitoring",
+      "type": "journal",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://www.mdpi.com/1424-8220/25/15/4639"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2025,
+      "title": "Enhancing Real-World Fall Detection Using Commodity Devices: A Systematic Study",
+      "authors": "Awatif Yasmin, Sana Alamgeer, and Anne H. H. Ngu",
+      "venue": "Sensors — Smart Sensor Technologies for Accurate Movement Monitoring and Connectivity",
+      "type": "journal",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://www.mdpi.com/1424-8220/25/17/5249"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2025,
+      "title": "Assessing the Quality of Light Field Images: A Graph-based Approach",
+      "authors": "Sana Alamgeer, Muhammad Irshad, and Mylène C. Q. Farias",
+      "venue": "Journal of Imaging Science and Technology (JIST)",
+      "type": "journal",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://www.researchgate.net/publication/392020870_Assessing_the_Quality_of_Light_Field_Images_A_Graph-based_Approach"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/sanalmgr/GCNN-Based-LF-IQA/blob/main/README.md"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2025,
+      "title": "Evaluating the Effectiveness of Plantar Pressure Sensors for Fall Detection in Sloped Surfaces",
+      "authors": "Tarek Mahmud, Rujan Kayastha, Krishna Kisi, Anne Hee Ngu, and Sana Alamgeer",
+      "venue": "Electronics — What Is Next in Wearable Computing for Mental and Physical Health Monitoring?",
+      "type": "journal",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://www.mdpi.com/2079-9292/14/15/3003"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2023,
+      "title": "Using a Diverse Neural Network to Predict the Quality of Light Field Images",
+      "authors": "Sana Alamgeer, André H. M. Costa, and Mylène C. Q. Farias",
+      "venue": "IEEE 25th International Workshop on Multimedia Signal Processing (MMSP)",
+      "type": "conference",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/10337707"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/sanalmgr/Diverse-Neural-Network-for-Quality-Assessment-of-Complex-Light-Field-Images"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2022,
+      "title": "Light Field Image Quality Assessment with Dense Atrous Convolutions",
+      "authors": "Sana Alamgeer and Mylène C. Q. Farias",
+      "venue": "IEEE International Conference on Image Processing (ICIP)",
+      "type": "conference",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/9897598"
+        },
+        {
+          "label": "Code",
+          "url": "https://bit.ly/3B67bOo"
+        }
+      ],
+      "selected": true
+    },
+    {
+      "year": 2022,
+      "title": "360RAT: A Tool for Annotating Regions of Interest in 360-degree Videos",
+      "authors": "Myllena Prado, Lucas Althoff, Sana Alamgeer, Alessandro Rodrigues e Silva, Ravi Prakash, Marcelo M. Carvalho, and Mylène C. Q. Farias",
+      "venue": "Brazilian Symposium on Multimedia and the Web (WebMedia '22)",
+      "type": "conference",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://dl.acm.org/doi/abs/10.1145/3539637.3557930"
+        }
+      ],
+      "selected": true
+    },
+    {
+      "year": 2022,
+      "title": "A survey on visual quality assessment methods for light fields",
+      "authors": "Sana Alamgeer and Mylène C. Q. Farias",
+      "venue": "Signal Processing: Image Communication (Elsevier)",
+      "type": "journal",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0923596522001527"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2022,
+      "title": "Deep Learning-Based Light Field Image Quality Assessment Using Frequency Domain Inputs",
+      "authors": "Sana Alamgeer and Mylène C. Q. Farias",
+      "venue": "14th International Conference on Quality of Multimedia Experience (QoMEX)",
+      "type": "conference",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/9900901"
+        },
+        {
+          "label": "Code",
+          "url": "https://bit.ly/36G6HDy"
+        }
+      ],
+      "selected": true
+    },
+    {
+      "year": 2022,
+      "title": "Blind visual quality assessment of light field images based on distortion maps",
+      "authors": "Sana Alamgeer and Mylène C. Q. Farias",
+      "venue": "Frontiers in Signal Processing — Image Processing",
+      "type": "journal",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://www.frontiersin.org/articles/10.3389/frsip.2022.815058/full"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/sanalmgr/GAN-based-LF-IQA"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2022,
+      "title": "Designing a user-centric framework for perceptually-efficient streaming of 360° edited videos",
+      "authors": "Lucas dos Santos Althoff, Henrique D. Garcia, Dario D. R. Morais, Sana Alamgeer, Myllena A. Prado, Gabriel C. Araujo, Ravi Prakash, Marcelo M. Carvalho, and Mylène C. Q. Farias",
+      "venue": "Electronic Imaging",
+      "type": "conference",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://library.imaging.org/ei/articles/34/9/IQSP-394"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2022,
+      "title": "Research proposal: Light field image quality assessment method based on deep graph convolutional neural network",
+      "authors": "Sana Alamgeer, Muhammad Irshad, and Mylène C. Q. Farias",
+      "venue": "13th ACM Multimedia Systems Conference (MMSys '22)",
+      "type": "conference",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://dl.acm.org/doi/10.1145/3524273.3533927"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2022,
+      "title": "Long Short-Term Memory-based Quality Assessment of Light Field Images",
+      "authors": "Sana Alamgeer and Mylène C. Q. Farias",
+      "venue": "ICME Workshop on Hyper-Realistic Multimedia for Enhanced Quality of Experience",
+      "type": "conference",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://www.computer.org/csdl/proceedings-article/icmew/2022/09859373/1G4F0ndbVoQ"
+        },
+        {
+          "label": "Code",
+          "url": "https://bit.ly/2YT3FIz"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2022,
+      "title": "A two-stream CNN-based visual quality assessment method for light field images",
+      "authors": "Sana Alamgeer and Mylène C. Q. Farias",
+      "venue": "Multimedia Tools and Applications",
+      "type": "journal",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://rdcu.be/cSIFX"
+        },
+        {
+          "label": "Code",
+          "url": "https://bit.ly/3Da8fB6"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2021,
+      "title": "CNN-based no-reference video quality assessment method using a spatiotemporal saliency patch selection procedure",
+      "authors": "Sana Alamgeer, Muhammad Irshad, and Mylène C. Q. Farias",
+      "venue": "Journal of Electronic Imaging",
+      "type": "journal",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-30/issue-6/063001/CNN-based-no-reference-video-quality-assessment-method-using-a/10.1117/1.JEI.30.6.063001.short?SSO=1"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/sanalmgr/2D-video-quality-assessment-method"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2021,
+      "title": "No-reference Image Quality Assessment of Underwater Images Using Multi-Scale Salient Local Binary Patterns",
+      "authors": "Muhammad Irshad, Camilo Sánchez-Ferreira, Sana Alamgeer, Carlos H. Llanos, and Mylène C. Q. Farias",
+      "venue": "IS&T International Symposium on Electronic Imaging",
+      "type": "conference",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://library.imaging.org/ei/articles/33/9/art00023"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2020,
+      "title": "Perceptual quality assessment of enhanced images using a crowd-sourcing framework",
+      "authors": "Muhammad Irshad, Alessandro Silva, Sana Alamgeer, and Mylène C. Q. Farias",
+      "venue": "IS&T International Symposium on Electronic Imaging",
+      "type": "conference",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://library.imaging.org/ei/articles/32/9/art00004"
+        }
+      ],
+      "selected": false
+    },
+    {
+      "year": 2018,
+      "title": "Blind image quality assessment based on multiscale salient local binary patterns",
+      "authors": "Pedro Garcia Freitas, Sana Alamgeer, Welington Akamine, and Mylène C. Q. Farias",
+      "venue": "9th ACM Multimedia Systems Conference (MMSys '18)",
+      "type": "conference",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://dl.acm.org/doi/10.1145/3204949.3204960"
+        }
+      ],
+      "selected": false
+    }
+  ]
+}

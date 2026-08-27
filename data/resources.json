@@ -1,0 +1,149 @@
+{
+  "section": {
+    "eyebrow": "Resources",
+    "title": "Tools and Research Datasets",
+    "intro": "A curated collection of programming references and datasets for time-series analysis, wearable sensing, human motion, fall detection, EEG analysis, and perceptual quality assessment."
+  },
+  "groups": [
+    {
+      "title": "Python tools & libraries",
+      "items": [
+        {
+          "label": "Anaconda",
+          "url": "https://www.anaconda.com/products/distribution"
+        },
+        {
+          "label": "Keras",
+          "url": "https://keras.io/api/layers/"
+        },
+        {
+          "label": "TensorFlow",
+          "url": "https://www.tensorflow.org/api_docs/python/tf/keras/layers"
+        },
+        {
+          "label": "PyTorch Tutorials",
+          "url": "https://pytorch.org/tutorials/"
+        },
+        {
+          "label": "StellarGraph",
+          "url": "https://stellargraph.readthedocs.io/"
+        },
+        {
+          "label": "NetworkX",
+          "url": "https://networkx.org/documentation/stable/index.html"
+        }
+      ]
+    },
+    {
+      "title": "Time-series, motion & wearable datasets",
+      "items": [
+        {
+          "label": "SFU Motion Capture Database",
+          "url": "https://mocap.cs.sfu.ca/"
+        },
+        {
+          "label": "Precision Aging Network",
+          "url": "https://precisionagingnetwork.org/"
+        },
+        {
+          "label": "CMU Graphics Lab Motion Capture Database",
+          "url": "https://mocap.cs.cmu.edu/"
+        },
+        {
+          "label": "SmartFall Multimodal Dataset",
+          "url": "https://github.com/txst-cs-smartfall/SmartFallMM-Dataset"
+        },
+        {
+          "label": "UP-Fall Detection Dataset",
+          "url": "https://sites.google.com/up.edu.mx/har-up/"
+        },
+        {
+          "label": "KFall Dataset",
+          "url": "https://sites.google.com/view/kfalldataset/home"
+        },
+        {
+          "label": "CHB-MIT Scalp EEG Database",
+          "url": "https://physionet.org/content/chbmit/1.0.0/"
+        },
+        {
+          "label": "UMAFall Dataset",
+          "url": "https://figshare.com/articles/dataset/UMA_ADL_FALL_Dataset_zip/4214283"
+        },
+        {
+          "label": "UniMiB SHAR Dataset",
+          "url": "http://www.sal.disco.unimib.it/technologies/unimib-shar/"
+        },
+        {
+          "label": "FallAllD Dataset",
+          "url": "https://www.kaggle.com/datasets/sankalpsinghvishen/derived-fallalld-dataset?resource=download"
+        },
+        {
+          "label": "WEDA-FALL Dataset",
+          "url": "https://github.com/joaojtmarques/WEDA-FALL"
+        }
+      ]
+    },
+    {
+      "title": "2D image & video quality datasets",
+      "items": [
+        {
+          "label": "TID2013",
+          "url": "https://ponomarenko.info/tid2013.htm"
+        },
+        {
+          "label": "LIVE Image Quality",
+          "url": "https://live.ece.utexas.edu/research/quality/subjective.htm"
+        },
+        {
+          "label": "LIVE Video Quality",
+          "url": "https://live.ece.utexas.edu/research/Quality/"
+        },
+        {
+          "label": "LIVE Netflix Plus",
+          "url": "https://live.ece.utexas.edu/research/LIVE_NFLX_II/live_nflx_plus.html"
+        },
+        {
+          "label": "LIVE Netflix Stall Study",
+          "url": "https://live.ece.utexas.edu/research/LIVEStallStudy/index.html"
+        }
+      ]
+    },
+    {
+      "title": "4D light-field image datasets",
+      "items": [
+        {
+          "label": "VALID",
+          "url": "https://www.epfl.ch/labs/mmspg/downloads/valid/"
+        },
+        {
+          "label": "Win5-LID",
+          "url": "http://staff.ustc.edu.cn/~chenzhibo/resources/2018/win5_lid.html"
+        },
+        {
+          "label": "MPI Light Fields",
+          "url": "http://lightfields.mpi-inf.mpg.de/Dataset.html"
+        },
+        {
+          "label": "SMART",
+          "url": "http://www.comlab.uniroma3.it/SMART.html"
+        },
+        {
+          "label": "LFDD",
+          "url": "https://sites.google.com/fel.cvut.cz/lfdd"
+        },
+        {
+          "label": "PE-LFID",
+          "url": "https://sites.google.com/view/jxufemslab/"
+        },
+        {
+          "label": "LFIQM",
+          "url": "http://www.comlab.uniroma3.it/lfiqm.html"
+        },
+        {
+          "label": "IETR-LF",
+          "url": "https://sites.google.com/view/lfassessment/home"
+        }
+      ]
+    }
+  ]
+}

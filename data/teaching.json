@@ -1,0 +1,34 @@
+{
+  "section": {
+    "eyebrow": "Teaching",
+    "title": "Active learning grounded in real problems",
+    "intro": "My teaching approach combines hands-on problem solving, inclusive classroom participation, and research-informed examples so students can connect technical ideas with real-world applications."
+  },
+  "philosophy": "Teaching is a dynamic process of engagement and exploration. Learning is most effective when students actively contribute rather than passively listen, so I use questions, practical activities, collaborative problem solving, and projects to bring complex AI concepts to life.",
+  "approach": [
+    {
+      "title": "Real-world scenarios",
+      "description": "Use storytelling and practical problems to make abstract technical concepts relatable and applicable."
+    },
+    {
+      "title": "Interactive tools",
+      "description": "Case studies, collaborative exercises, and guided problem solving encourage critical thinking and active participation."
+    },
+    {
+      "title": "Project-based learning",
+      "description": "Hands-on projects give students space to explore concepts creatively and apply their knowledge."
+    },
+    {
+      "title": "Accessible explanations",
+      "description": "Metaphors, analogies, diagrams, and clear visual explanations help learners from diverse backgrounds grasp complex ideas."
+    }
+  ],
+  "experience": [],
+  "interests": ["Artificial Intelligence & Machine Learning",
+  "Generative AI, LLMs & Prompt Engineering",
+  "Computer Vision & Image Processing",
+  "Time-Series Analysis & Wearable AI",
+  "Natural Language Processing",
+  "Data Science & Analytics",
+  "Programming Languages & Software Engineering"]
+}

@@ -1,0 +1,67 @@
+{
+  "section": {
+    "eyebrow": "Experience",
+    "title": "Research, industry, and education",
+    "intro": "A cross-disciplinary path through academic research, applied AI, software development, and technical education."
+  },
+  "experience": [
+    {
+      "role": "Postdoctoral Researcher",
+      "organization": "Texas State University — Department of Computer Science",
+      "location": "USA",
+      "period": "May 2024 - Present",
+      "highlights": [
+        "Research in computer vision, multimodal learning, and time-series analysis for healthcare.",
+        "Develop efficient monitoring and clinical summarization systems, including fall detection and AI-assisted interpretation workflows.",
+        "Mentor Ph.D., master's, graduate, and undergraduate students and contribute to interdisciplinary funding proposals."
+      ]
+    },
+    {
+      "role": "Data Science Coach",
+      "organization": "CeADAR, University College Dublin",
+      "location": "Ireland",
+      "period": "Oct 2022 - Apr 2024",
+      "highlights": [
+        "Created an online platform for advanced AI and data-science training.",
+        "Designed and delivered training on Demystifying AI in Business, Generative AI, Prompt Engineering, and NLP.",
+        "Guided graduate projects in the Work Ready Graduate Programme and trained business executives in AI prototyping."
+      ]
+    },
+    {
+      "role": "Machine Learning Lead",
+      "organization": "Early-Stage AI Startup",
+      "location": "Brazil",
+      "period": "May 2022 - Sep 2022",
+      "highlights": [
+        "Analyzed Portuguese pre-trained language models and developed a synonym-prediction pipeline.",
+        "Delivered AI/LLM training for the development team and worked within a SCRUM process."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D., Electronic Systems Engineering and Automation",
+      "institution": "University of Brasília",
+      "location": "Brasília, Brazil",
+      "period": "2017 — 2022",
+      "details": "Visual attention, Quality of Experience, light fields, deep learning, data analytics, and feature engineering."
+    }
+  ],
+  "awards": [
+    {
+      "year": "2022",
+      "title": "Best Student Paper Award",
+      "context": "QoMEX — Deep Learning-Based Light Field Image Quality Assessment Using Frequency Domain Inputs"
+    },
+    {
+      "year": "2022",
+      "title": "Best Paper Award",
+      "context": "WebMedia '22 — 360RAT: A Tool for Annotating Regions of Interest in 360-degree Videos"
+    },
+    {
+      "year": "2021",
+      "title": "Social Media Ambassador Award",
+      "context": "Virtual QoMEX21 Conference"
+    }
+  ]
+}

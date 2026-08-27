@@ -1,0 +1,84 @@
+{
+  "section": {
+    "eyebrow": "Selected projects",
+    "title": "Research translated into systems",
+    "intro": "Current and recent projects across wearable AI, generative modeling, multimodal learning, clinical language systems, and perceptual computer vision."
+  },
+  "items": [
+    {
+      "title": "Gated CNN for watch-based fall detection",
+      "subtitle": "Efficient temporal modeling without attention",
+      "status": "Preprint 2026",
+      "description": "A gated convolutional approach for smartwatch fall detection that learns relevant temporal features without computationally expensive attention mechanisms, supporting efficient deployment.",
+      "areas": [
+        "Time series",
+        "Edge AI",
+        "Wearables"
+      ],
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://arxiv.org/abs/2605.20275"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/txst-cs-smartfall/Gated-CNN-for-Watch-based-Fall-Detection"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "title": "MA-RAG",
+      "subtitle": "Multi-agent RAG for longitudinal clinical assessment summarization",
+      "status": "Preprint 2026",
+      "description": "A multi-agent retrieval-augmented generation system for query-driven interpretation and structured summarization of longitudinal clinical assessment reports.",
+      "areas": [
+        "AI agents",
+        "RAG",
+        "Clinical NLP"
+      ],
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/txst-cs-smartfall/clinical-LLM-MA-RAG"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "title": "Physics-informed digital twins for motion",
+      "subtitle": "Risky-posture, gait, and balance simulation",
+      "status": "Ongoing",
+      "description": "A research direction centered on digital twins of human motion, combining multimodal sensing, latent generative models, and physical constraints to study gait, balance, workplace posture, and fall risk.",
+      "areas": [
+        "Digital twins",
+        "Physics-informed AI",
+        "Human motion"
+      ],
+      "links": [],
+      "featured": true
+    },
+    {
+      "title": "Synthetic wearable fall data",
+      "subtitle": "LLMs and diffusion models for scarce-event learning",
+      "status": "2025",
+      "description": "An investigation of whether generative models and large language models can produce wearable time-series signals that are useful for downstream fall detection.",
+      "areas": [
+        "Synthetic data",
+        "Diffusion",
+        "LLMs"
+      ],
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://www.mdpi.com/1424-8220/25/16/5144"
+        },
+        {
+          "label": "Synthetic data & code",
+          "url": "https://github.com/txst-cs-smartfall/LLM-based-synthetic-fall-data-generation"
+        }
+      ],
+      "featured": false
+    }
+  ]
+}

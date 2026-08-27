@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "title": "Sana Alamgeer | Multimodal AI Researcher",
+    "description": "Academic website of Dr. Sana Alamgeer — multimodal AI, computer vision, generative AI, time-series analysis, wearable sensing, and AI for healthcare.",
+    "keywords": [
+      "Sana Alamgeer",
+      "multimodal AI",
+      "computer vision",
+      "generative AI",
+      "time series",
+      "wearable sensing",
+      "fall detection",
+      "synthetic data",
+      "digital twins",
+      "healthcare AI"
+    ],
+    "lastUpdated": "August 2026"
+  },
+  "profile": {
+    "name": "Dr. Sana Alamgeer",
+    "pronouns": "She/Her",
+    "role": "Postdoctoral Researcher",
+    "affiliation": "Department of Computer Science · Texas State University",
+    "location": "San Marcos, Texas, USA",
+    "email": "sanalamgeer@gmail.com",
+    "headline": "Multimodal AI beyond the limits of real-world data",
+    "subheadline": "I build human-centered AI systems that combine vision, wearable sensing, time-series modeling, and generative methods, with a focus on scarce-data healthcare problems and efficient real-world deployment.",
+    "bio": "I am an Artificial Intelligence researcher specializing in Computer Vision, Generative AI, and Time Series Analysis. My work connects multimodal learning, synthetic data, wearable sensing, and efficient modeling to practical healthcare challenges such as fall detection, mobility analysis, cognitive frailty, and clinical summarization.",
+    "impact": "My research translates high-dimensional and multimodal data into scalable AI systems. I develop methods that learn from limited observations, responsibly extend data through generative models, and transfer richer multimodal knowledge into models that can operate on practical devices.",
+    "researchInterests": [
+      "Multimodal AI",
+      "Computer Vision",
+      "Generative AI & Synthetic Data",
+      "Time-Series Analysis",
+      "Wearable Sensing",
+      "Digital Twins",
+      "Knowledge Distillation",
+      "AI Agents & RAG"
+    ]
+  },
+  "social": [
+  {
+    "label": "Google Scholar",
+    "url": "https://scholar.google.com/citations?hl=en&user=-7DiMycAAAAJ",
+    "icon": "scholar"
+  },
+  {
+    "label": "ORCID",
+    "url": "https://orcid.org/0000-0002-6472-7570",
+    "icon": "orcid"
+  },
+  {
+    "label": "Coderific",
+    "url": "https://www.youtube.com/channel/UCiqIs4F1dlW0oTqsGYqBiyg",
+    "icon": "youtube"
+  }
+],
+"contactLinks": [
+  {
+    "label": "Email",
+    "url": "mailto:sanalamgeer@gmail.com",
+    "icon": "mail"
+  },
+  {
+    "label": "GitHub",
+    "url": "https://github.com/sanalmgr",
+    "icon": "github"
+  },
+  {
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/sana-alamgeer-31b85340/",
+    "icon": "linkedin"
+  }
+],
+  "navigation": [
+    {
+      "label": "Research",
+      "target": "research"
+    },
+    {
+      "label": "Publications",
+      "target": "publications"
+    },
+    {
+      "label": "Projects",
+      "target": "projects"
+    },
+    {
+      "label": "Experience",
+      "target": "experience"
+    },
+    {
+      "label": "Teaching",
+      "target": "teaching"
+    },
+    {
+      "label": "Service",
+      "target": "service"
+    },
+    {
+      "label": "Resources",
+      "target": "resources"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "26",
+      "label": "Publications"
+    },
+    {
+      "value": "106",
+      "label": "Peer reviews"
+    },
+    {
+      "value": "3",
+      "label": "Research awards"
+    },
+    {
+      "value": "4",
+      "label": "Countries worked/studied"
+    }
+  ],
+  "documents": [
+    {
+      "label": "Curriculum Vitae",
+      "shortLabel": "CV",
+      "url": "documents/Sana-Alamgeer-CV.pdf"
+    },
+    {
+      "label": "Research Statement",
+      "shortLabel": "Research Statement",
+      "url": "documents/Sana-Alamgeer-Research-Statement.pdf"
+    },
+    {
+      "label": "Teaching Statement",
+      "shortLabel": "Teaching Statement",
+      "url": "documents/Sana-Alamgeer-Teaching-Statement.pdf"
+    }
+  ],
+  "skills": [
+    {
+      "group": "Programming & Web",
+      "items": [
+        "Python",
+        "C++",
+        "PHP",
+        "JavaScript",
+        "HTML/CSS",
+        "SQL/MySQL"
+      ]
+    },
+    {
+      "group": "Deep Learning",
+      "items": [
+        "PyTorch",
+        "TensorFlow",
+        "Keras",
+        "Scikit-learn",
+        "FastAI"
+      ]
+    },
+    {
+      "group": "Agents & LLMs",
+      "items": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Prompt Engineering",
+        "Multi-Agent Systems"
+      ]
+    },
+    {
+      "group": "Data & Deployment",
+      "items": [
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Docker",
+        "GitHub/GitLab",
+        "CI/CD"
+      ]
+    }
+  ]
+}

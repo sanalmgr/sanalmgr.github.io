@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# sanalmgr.github.io — JSON-driven academic website
 
-You can use the [editor on GitHub](https://github.com/sanalmgr/sanalmgr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This repository is a static GitHub Pages site. **All academic/profile content is stored in JSON files** and rendered by `assets/js/app.js`; `index.html` contains only the page structure and empty rendering targets.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Content files
 
-### Markdown
+| File | What to edit |
+|---|---|
+| `data/site.json` | Bio, headline, links, metrics, documents, skills, navigation |
+| `data/research.json` | Research vision, central question, research themes, modalities |
+| `data/projects.json` | Research projects and project links |
+| `data/publications.json` | Papers, preprints, venues, years, paper/code/data links |
+| `data/career.json` | Work experience, education, awards, grants |
+| `data/teaching.json` | Teaching philosophy, methods, experience, interests, mentoring |
+| `data/service.json` | Reviewing, editorial roles, academic service, invited talks |
+| `data/resources.json` | Programming tools and quality-assessment datasets |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Add a publication
 
-```markdown
-Syntax highlighted code block
+Add one object inside `data/publications.json` → `items`:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```json
+{
+  "year": 2026,
+  "title": "Paper title",
+  "authors": "Author A, Sana Alamgeer, Author B",
+  "venue": "Venue name",
+  "type": "journal",
+  "links": [
+    {"label": "Paper", "url": "https://..."},
+    {"label": "Code", "url": "https://..."}
+  ],
+  "selected": False
+}
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Supported publication filters are generated automatically from each item's `type`, so a new type appears without editing JavaScript.
 
-### Jekyll Themes
+## Add a project
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanalmgr/sanalmgr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Add an object inside `data/projects.json` → `items`. The project grid is generated automatically.
 
-### Support or Contact
+## Local preview
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Because browsers block `fetch()` from `file://`, use a local web server:
+
+```bash
+python3 -m http.server 8000
+```
+
+Then open `http://localhost:8000`.
+
+## GitHub Pages deployment
+
+1. Push these files to the `main` branch of `sanalmgr/sanalmgr.github.io`.
+2. In **Settings → Pages**, deploy from the `main` branch and repository root.
+3. The site will be available at `https://sanalmgr.github.io/`.
+
+No build tools, frameworks, npm packages, or Jekyll plugins are required.

@@ -1,0 +1,59 @@
+{
+  "section": {
+    "eyebrow": "Research",
+    "title": "Learning beyond the available data",
+    "intro": "My research asks how multimodal AI can learn from incomplete real-world observations, extend them with reliable synthetic data, and transfer that knowledge into efficient, trustworthy systems."
+  },
+  "centralQuestion": "How can we build multimodal AI systems that learn beyond the limits of available real-world data and transfer that knowledge into efficient, trustworthy models?",
+  "vision": "The next generation of AI will increasingly encounter rare, expensive, privacy-sensitive, or unsafe-to-collect events. I study how vision, wearable sensors, pose, gait, and contextual information can be learned jointly, how generative models can fill meaningful gaps, and how multimodal knowledge can be distilled into models practical enough for watches, phones, and embedded devices.",
+  "themes": [
+    {
+      "title": "Synthetic multimodal learning",
+      "summary": "Generate representative observations when real examples are scarce, especially for rare healthcare events such as falls.",
+      "details": "This direction builds on LLM- and diffusion-based wearable signal generation and extends toward jointly generating sensor, pose, video, and contextual modalities.",
+      "tags": [
+        "Diffusion models",
+        "LLMs",
+        "Synthetic data"
+      ]
+    },
+    {
+      "title": "Physics-informed digital twins",
+      "summary": "Constrain synthetic human motion with physical knowledge so generated movements remain plausible and useful for downstream learning.",
+      "details": "Physics-informed learning provides a bridge between generative flexibility and biomechanical constraints, supporting safer simulation of gait, posture, and risky motion.",
+      "tags": [
+        "Digital twins",
+        "Human motion",
+        "Physics-informed AI"
+      ]
+    },
+    {
+      "title": "Efficient multimodal deployment",
+      "summary": "Transfer knowledge from rich multimodal teacher models into smaller models that can operate with fewer signals on resource-limited devices.",
+      "details": "A teacher may learn from video, pose, accelerometer, and gyroscope data, while a deployed smartwatch student ultimately uses inertial signals only.",
+      "tags": [
+        "Knowledge distillation",
+        "Wearables",
+        "Edge AI"
+      ]
+    },
+    {
+      "title": "Human-centered clinical AI",
+      "summary": "Develop multimodal and agentic systems that improve monitoring and interpretation while keeping outputs useful for clinicians and researchers.",
+      "details": "Current work spans fall and mobility analysis, cognitive frailty, CT report generation, and retrieval-augmented summarization of longitudinal clinical assessments.",
+      "tags": [
+        "Healthcare AI",
+        "RAG",
+        "Clinical summarization"
+      ]
+    }
+  ],
+  "modalities": [
+    "Computer Vision",
+    "Time Series Analysis",
+    "Pose & Gait",
+    "Digital Twins",
+    "AI Agents",
+    "Generative Models"
+  ]
+}
